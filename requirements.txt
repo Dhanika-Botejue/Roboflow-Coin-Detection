@@ -1,1 +1,2 @@
 inference_sdk
+python-dotenv
